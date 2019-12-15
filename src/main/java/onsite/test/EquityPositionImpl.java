@@ -1,7 +1,6 @@
 package onsite.test;
 
 import java.util.*;
-import java.util.concurrent.locks.Lock;
 
 /**
  * This is a implement class of Equity Position interface
@@ -11,8 +10,6 @@ import java.util.concurrent.locks.Lock;
  * @date    12/03/2019 15:52
  */
 public class EquityPositionImpl implements EquityPositionInterface {
-
-    Lock lock;
 
     @Override
     public List<List<String>> getPosition(List<Transaction> transactions) {

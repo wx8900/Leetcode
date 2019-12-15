@@ -1,0 +1,10 @@
+# Created by .ignore support plugin (hsz.mobi)
+.gitignore
+.gradle/
+.idea/dataSources/
+.idea/fileTemplates/
+.idea/workspace.xml
+out/production/FallCoding/
+out/production/classes/
+out/test/FallCoding/
+out/test/classes/
