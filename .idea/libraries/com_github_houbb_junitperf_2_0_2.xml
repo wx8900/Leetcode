@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="com.github.houbb:junitperf:2.0.2" type="repository">
+    <properties maven-id="com.github.houbb:junitperf:2.0.2" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/junitperf-2.0.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/log-integration-1.1.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/heaven-0.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/apiguardian-api-1.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-math3-3.6.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/guava-21.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/freemarker-2.3.23.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/junit-jupiter-engine-5.2.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/junit-platform-engine-1.2.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/junit-platform-commons-1.2.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/opentest4j-1.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/junit-jupiter-api-5.2.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

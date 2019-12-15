@@ -1,0 +1,6 @@
+This a text file.
+The second line .
+the third line ?
+Hi, Hello world!
+Firth line of the text file
+Sixth line .
