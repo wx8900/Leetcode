@@ -5,7 +5,7 @@ import java.util.List;
 /**
  * This is a interface of Equity Position
  *
- * @author  Wenxian Cai
+ * @author  Jack
  * @version V1.0
  * @date    12/03/2019 15:51
  */

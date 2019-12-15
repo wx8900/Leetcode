@@ -5,7 +5,7 @@ import java.util.List;
 /**
  * This interface draws a bar chart
  *
- * @author Jeff
+ * @author Jack
  * @version V1.0
  * @date 2019/12/2 22:54
  */

@@ -8,7 +8,7 @@ import java.util.logging.Level;
 /**
  * This class draws a bar chart
  *
- * @author Jeff
+ * @author Jack
  * @version V1.0
  * @date 2019/12/2 22:59
  */

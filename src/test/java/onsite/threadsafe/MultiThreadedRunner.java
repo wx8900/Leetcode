@@ -10,7 +10,7 @@ import java.util.concurrent.atomic.AtomicInteger;
 /**
  * Runs all tests in parallel and waits for them to complete.
  *
- * @author Jeff
+ * @author Jack
  * @version V1.0
  * @date 10/7/19 15:22
  */

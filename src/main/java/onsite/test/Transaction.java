@@ -3,7 +3,7 @@ package onsite.test;
 /**
  * This is a transaction information class
  *
- * @author  Wenxian Cai
+ * @author  Jack
  * @version V1.0
  * @date    12/03/2019 15:40
  */

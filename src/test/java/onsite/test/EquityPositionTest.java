@@ -3,7 +3,7 @@ package onsite.test;
 /**
  * This is a Junit class for testing EquityPositionImpl
  *
- * @author Wenxian Cai
+ * @author Jack
  * @version V1.0
  * @date 2019/11/29 10:15
  */

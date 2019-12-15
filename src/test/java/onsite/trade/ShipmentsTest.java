@@ -3,7 +3,7 @@ package onsite.trade;
 /**
  * This class draws a bar chart
  *
- * @author Jeff
+ * @author Jack
  * @version V1.0
  * @date 2019/11/29 10:15
  */

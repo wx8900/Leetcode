@@ -10,7 +10,7 @@ import java.util.*;
 /**
  * This is a implement class of Equity Position interface
  *
- * @author Wenxian Cai
+ * @author Jack
  * @version V1.0
  * @date 2019/12/3 15:52
  */
